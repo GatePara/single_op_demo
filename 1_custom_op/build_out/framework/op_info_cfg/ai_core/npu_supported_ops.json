@@ -1,0 +1,34 @@
+{
+  "LeakyReluDemo": {
+    "isGray": false,
+    "isHeavy": false
+  },
+  "Assign": {
+    "isGray": false,
+    "isHeavy": false
+  },
+  "UpsampleTik": {
+    "isGray": false,
+    "isHeavy": false
+  },
+  "PermuteTik": {
+    "isGray": false,
+    "isHeavy": false
+  },
+  "Conv2DTik": {
+    "isGray": false,
+    "isHeavy": true
+  },
+  "MatmulTik": {
+    "isGray": false,
+    "isHeavy": false
+  },
+  "ScatterNdAdd": {
+    "isGray": false,
+    "isHeavy": false
+  },
+  "AddDsl": {
+    "isGray": false,
+    "isHeavy": false
+  }
+}

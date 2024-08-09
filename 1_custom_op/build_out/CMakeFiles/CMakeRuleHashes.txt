@@ -1,0 +1,18 @@
+# Hashes of file build rules.
+938b0929317fa5d4ffa83532f2547798 CMakeFiles/custom_opp_ubuntu_aarch64.run
+d1ac5ae12f278b10b31b02627a8d5c3b cpukernel/CMakeFiles/aicpu_config_json
+f4a99552df7302d6a17aaebbbf648b73 cpukernel/cust_aicpu_kernel.json
+b4904f9beadb68ac57100679a94cef54 tbe/CMakeFiles/config_json
+25ebadcb8689b11471f998ef2ec43d68 tbe/aic-ascend310-ops-info.json
+13bbf8c8f2d3692df99239b5f855f19a tbe/aic-ascend310b-ops-info.json
+9c8893b31ff243477aa45f8d9b5e29f2 tbe/aic-ascend310p-ops-info.json
+4a3173beb2c402c30cba7f0ba1bae814 tbe/aic-ascend610-ops-info.json
+53be55f5f88491206e115c7199d4a695 tbe/aic-ascend615-ops-info.json
+84cb8b8dfc0196dac72b81f70ba152f1 tbe/aic-ascend910-ops-info.json
+87b5453c8a39e680c1ff499aa8e79eb6 tbe/aic-ascend910b-ops-info.json
+aa8704dd0c5b96414d18d7c3cca7ca1b tbe/aic-hi3796cv300cs-ops-info.json
+5497acb26a8a3c17d86205f02167d34a tbe/aic-hi3796cv300es-ops-info.json
+7ab3bade174246c421b68931371dda06 tbe/aic-optg-ops-info.json
+d1ffe5d3a8169a206d1e10be22487def tbe/aic-sd3403-ops-info.json
+ab7d52bbab9430a946aa96a474a2a0b5 tbe/aic-tsnsc-ops-info.json
+4932345e8a0850066bbd9984f24ec922 tbe/aic-tsnse-ops-info.json

@@ -1,0 +1,29 @@
+[
+    {
+        "op": "LeakyRelu",
+        "input_desc": [
+            {
+                "name": "x",
+                "param_type": "required",
+                "format": [
+                    "ND"
+                ],
+                "type": [
+                    "fp16"
+                ]
+            }
+        ],
+        "output_desc": [
+            {
+                "name": "y",
+                "param_type": "required",
+                "format": [
+                    "ND"
+                ],
+                "type": [
+                    "fp16"
+                ]
+            }
+        ]
+    }
+]

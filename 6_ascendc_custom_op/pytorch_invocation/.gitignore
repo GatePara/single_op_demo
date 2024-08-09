@@ -1,0 +1,15 @@
+/custom_op
+build
+build_out
+/*/run/out/*
+!/*/run/out/test_data
+fusion_result.json
+
+# pytorch used
+libaclopnn.so
+pytorch-v1.8.1*
+pytorch-v1.11.0*
+pytorch-v2.0.0*
+cache
+prof_total
+*.zip
