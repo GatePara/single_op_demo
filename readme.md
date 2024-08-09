@@ -1,5 +1,5 @@
 
-# 本目录后续不再演进，Ascend C算子样例开发请移步[operator](../../../operator)
+# Samples for CANN7.0 in ascend310B4 device
 # 自定义算子开发样例
 
 #### 概述
