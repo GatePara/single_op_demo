@@ -1,1 +1,5 @@
 /.DS_Store
+./1_custom_op/caffe.proto
+./1_custom_op/caffe.proto.origin
+./1_custom_op/build_out
+./1_custom_op/framework/caffe_plugin/proto/caffe
