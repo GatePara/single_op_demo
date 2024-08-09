@@ -2,6 +2,15 @@
 # Samples for CANN7.0 in ascend310B4 device
 # 自定义算子开发样例
 
+
+#### 准备
+编译aicpu算子需要安装python3.7.5
+```shell
+conda create -n py37 python=3.7.5
+sudo ln -s /usr/local/miniconda3/envs/py37/bin/python /usr/local/bin/python3.7.5
+conda activate py37
+conda install numpy
+```
 #### 概述
 
 本样例包含了自定义算子的开发样例和功能验证样例。
